@@ -1,0 +1,2 @@
+First commit
+echo "# Node-Restify" >> README.md
